@@ -16,8 +16,10 @@ ifdef::backend-html5[]
 
 == Projektidee
 
-password generator for different people
+Passwortgenerator für verschiedene Personen
+
 Arbeiter / Chefs / Influencer / etc....
+
 Man sollte eingeben, wie lang das Passwort seien soll, wie viele Sonderzeichen und für welche Platform es seien soll
 
 
