@@ -16,7 +16,7 @@ ifdef::backend-html5[]
 
 == Projektidee
 
-Passwortgenerator für verschiedene Personen
+Passwortgenerator für verschiedene Kategorien
 
 Arbeiter / Chefs / Influencer
 
