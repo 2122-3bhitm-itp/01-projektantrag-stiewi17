@@ -16,6 +16,5 @@ ifdef::backend-html5[]
 
 == Projektidee
 
-
-=== Header 2
+===  for People
 
