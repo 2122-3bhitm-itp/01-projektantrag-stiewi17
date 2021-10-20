@@ -16,5 +16,5 @@ ifdef::backend-html5[]
 
 == Projektidee
 
-password
+= password generator for different people
 
