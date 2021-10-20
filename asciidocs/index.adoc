@@ -18,7 +18,7 @@ ifdef::backend-html5[]
 
 Passwortgenerator für verschiedene Personen
 
-Arbeiter / Chefs / Influencer / etc....
+Arbeiter / Chefs / Influencer /
 
 Man sollte eingeben, wie lang das Passwort seien soll, wie viele Sonderzeichen und für welche Platform es seien soll
 
