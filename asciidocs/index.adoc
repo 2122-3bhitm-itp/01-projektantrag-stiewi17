@@ -16,10 +16,14 @@ ifdef::backend-html5[]
 
 == Projektidee
 
-Passwortgenerator für verschiedene Kategorien/Personen
+Passwortgenerator für verschiedene Personen/Kategorien
 
-=== Für wen?
-Arbeiter / Chefs / Influencer
+=== Genauer...
+==== Personen:
+Chef / privat Gebrauch / Influencer
+
+==== Kategorien:
+Social Media / Firmen / Banken
 
 === Wie sollte es funktionieren?
 Man sollte eingeben können, wie lang das Passwort, wie viele Sonderzeichen und für welche Platform es sein soll
