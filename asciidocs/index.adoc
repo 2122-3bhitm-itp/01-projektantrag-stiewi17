@@ -20,6 +20,6 @@ Passwortgenerator für verschiedene Kategorien/Personen
 
 Arbeiter / Chefs / Influencer
 
-Man sollte eingeben können, wie lang das Passwort sein soll, wie viele Sonderzeichen und für welche Platform es sein soll
+Man sollte eingeben könen, wie lang das Passwort sein soll, wie viele Sonderzeichen und für welche Platform es sein soll
 
 
